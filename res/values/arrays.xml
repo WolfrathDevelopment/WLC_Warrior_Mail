@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="choices">
+        <item>Options</item>
+        <item>Reply</item>
+		<item>Delete</item>
+		<item>Forward</item>
+    </string-array>
+    
+</resources>
